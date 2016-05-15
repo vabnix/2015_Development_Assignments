@@ -1,0 +1,8 @@
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\bin\Debug\MyAppSabre.exe
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\bin\Debug\MyAppSabre.pdb
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\obj\Debug\MyAppSabre.csprojResolveAssemblyReference.cache
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\obj\Debug\MyAppSabre.Form1.resources
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\obj\Debug\MyAppSabre.Properties.Resources.resources
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\obj\Debug\MyAppSabre.csproj.GenerateResource.Cache
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\obj\Debug\MyAppSabre.exe
+C:\Users\sg0949719\Documents\TestApplications\MyAppSabre\MyAppSabre\obj\Debug\MyAppSabre.pdb

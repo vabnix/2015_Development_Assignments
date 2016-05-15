@@ -1,0 +1,6 @@
+C:\Users\sg0949719\Documents\TestApplications\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe.config
+C:\Users\sg0949719\Documents\TestApplications\HelloConsole\HelloConsole\bin\Debug\HelloConsole.exe
+C:\Users\sg0949719\Documents\TestApplications\HelloConsole\HelloConsole\bin\Debug\HelloConsole.pdb
+C:\Users\sg0949719\Documents\TestApplications\HelloConsole\HelloConsole\obj\Debug\HelloConsole.csprojResolveAssemblyReference.cache
+C:\Users\sg0949719\Documents\TestApplications\HelloConsole\HelloConsole\obj\Debug\HelloConsole.exe
+C:\Users\sg0949719\Documents\TestApplications\HelloConsole\HelloConsole\obj\Debug\HelloConsole.pdb

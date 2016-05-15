@@ -1,0 +1,6 @@
+C:\Users\sg0949719\Documents\TestApplications\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\sg0949719\Documents\TestApplications\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\sg0949719\Documents\TestApplications\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\sg0949719\Documents\TestApplications\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
+C:\Users\sg0949719\Documents\TestApplications\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\sg0949719\Documents\TestApplications\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb

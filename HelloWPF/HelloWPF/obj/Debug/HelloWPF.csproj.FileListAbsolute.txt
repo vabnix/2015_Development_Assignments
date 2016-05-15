@@ -1,0 +1,14 @@
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojResolveAssemblyReference.cache
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.Cache
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+C:\Users\sg0949719\Documents\TestApplications\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb
