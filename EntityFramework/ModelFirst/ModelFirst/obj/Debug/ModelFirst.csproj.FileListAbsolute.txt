@@ -1,0 +1,9 @@
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\bin\ModelFirst.dll
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\bin\ModelFirst.pdb
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\bin\EntityFramework.dll
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\bin\EntityFramework.SqlServer.dll
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\bin\EntityFramework.xml
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\bin\EntityFramework.SqlServer.xml
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csprojResolveAssemblyReference.cache
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.dll
+E:\Learning\ASP\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.pdb

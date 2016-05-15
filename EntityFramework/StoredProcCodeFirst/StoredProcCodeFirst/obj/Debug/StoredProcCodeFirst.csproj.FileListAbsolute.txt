@@ -1,0 +1,4 @@
+E:\Learning\ASP\EntityFramework\StoredProcCodeFirst\StoredProcCodeFirst\bin\StoredProcCodeFirst.dll
+E:\Learning\ASP\EntityFramework\StoredProcCodeFirst\StoredProcCodeFirst\bin\StoredProcCodeFirst.pdb
+E:\Learning\ASP\EntityFramework\StoredProcCodeFirst\StoredProcCodeFirst\obj\Debug\StoredProcCodeFirst.dll
+E:\Learning\ASP\EntityFramework\StoredProcCodeFirst\StoredProcCodeFirst\obj\Debug\StoredProcCodeFirst.pdb

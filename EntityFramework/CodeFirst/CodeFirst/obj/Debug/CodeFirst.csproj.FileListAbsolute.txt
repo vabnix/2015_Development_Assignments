@@ -1,0 +1,9 @@
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\bin\CodeFirst.dll
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\bin\CodeFirst.pdb
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.dll
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.dll
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.dll
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.xml
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\bin\EntityFramework.SqlServer.xml
+E:\Learning\ASP\EntityFramework\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
